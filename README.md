@@ -7,8 +7,11 @@
 ## 📷 Yardım Sistemi 
 ![image](https://i.imgur.com/0Og5sOJ.png)
 
-## 📷 Hatırlatıcı Sistemi Çalışır Hali Aşağıda 
+## 📷 Hatırlatıcı Sistemi 
 ![image](https://i.imgur.com/AT4J6U2.png)
+
+## 📷 Yapay Zeka'ya Sende Soru Sormak İstemezmisin ?
+![image](https://imgur.com/a/eTO4OuG)
 
 
 [🆕️ Carlos'u Sunucuna Eklemek İçin Tıkla](https://discord.com/oauth2/authorize?client_id=1075532862536827033&permissions=8&scope=bot)
