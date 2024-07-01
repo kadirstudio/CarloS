@@ -11,7 +11,7 @@ CarloS Discord Botu - Yenilikler ve Geliştirmeler! 🚀
 
 
 [Hizmet Şartları](https://carlosbot.vercel.app/tos)
-[Gizlilik Politikası](https://carlosbot.vercel.app/privacy)
+|[Gizlilik Politikası](https://carlosbot.vercel.app/privacy)
 
 Bu projenin izinsiz kopyalanıp paylaşılması/satılması kesinlikle yasaktır.
 
