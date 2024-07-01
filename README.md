@@ -8,7 +8,7 @@
 ![image](https://i.imgur.com/0Og5sOJ.png)
 
 ## 📷 Hatırlatıcı Sistemi Çalışır Hali Aşağıda 
-![image](https://i.imgur.com/Br3HCzI.png)
+![image](https://i.imgur.com/AT4J6U2.png)
 
 
 [🆕️ Carlos'u Sunucuna Eklemek İçin Tıkla](https://discord.com/oauth2/authorize?client_id=1075532862536827033&permissions=8&scope=bot)
