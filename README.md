@@ -7,8 +7,8 @@
 `/yardım` ile `komutların` komutların kullanımını görüntüleyebilirsin.
 
 
-
-[Hizmet Şartları](https://carlosbot.vercel.app/tos)
+[Oy Ver](https://top.gg/bot/1075532862536827033/vote)
+| [Hizmet Şartları](https://carlosbot.vercel.app/tos)
 | [Gizlilik Politikası](https://carlosbot.vercel.app/privacy)
 
 Bu projenin izinsiz kopyalanıp paylaşılması/satılması kesinlikle yasaktır.
