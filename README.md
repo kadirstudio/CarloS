@@ -5,7 +5,7 @@
 
 `/yardım` ile `komutların` komutların kullanımını görüntüleyebilirsin.
 ## 📷 Yardım Sistemi 
-![image](https://i.imgur.com/wSPAOsQ.png)
+![image](https://i.imgur.com/0Og5sOJ.png)
 
 ## 📷 Hatırlatıcı Sistemi Çalışır Hali Aşağıda 
 ![image](https://i.imgur.com/Br3HCzI.png)
