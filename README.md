@@ -4,7 +4,10 @@
 ✨ Türkiye'nin Önde Gelen Yerli ve Milli Botu CarloS ile Sunucunuza Yenilik Katın, 🚀 Yapay Zeka, Güvenlik, Müzik ve Daha Fazlası İçin Sunucunuza Davet Edip. Keyfini Çıkarın!
 
 `/yardım` ile `komutların` komutların kullanımını görüntüleyebilirsin.
-## 📷 Hatırlatıcı Sistemi 
+## 📷 Yardım Sistemi 
+![image](https://i.imgur.com/wSPAOsQ.png)
+
+## 📷 Hatırlatıcı Sistemi Çalışır Hali Aşağıda 
 ![image](https://i.imgur.com/Br3HCzI.png)
 
 
