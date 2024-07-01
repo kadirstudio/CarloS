@@ -22,5 +22,6 @@
 | [Gizlilik Politikası](https://carlosbot.vercel.app/privacy)
 
 Bu projenin izinsiz kopyalanıp paylaşılması/satılması kesinlikle yasaktır.
+
 2024 © CarloS Telif Hakları Saklıdır.
 
