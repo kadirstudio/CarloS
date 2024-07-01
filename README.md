@@ -13,6 +13,8 @@
 ## 📷 Yapay Zeka'ya Sende Soru Sormak İstemezmisin ?
 ![image](https://i.imgur.com/NDdBAiJ.png)
 
+## 📷 Yapay Zeka'ya Abone Sistemini Sende Sunucuna Kurmak İstemezmisin ?
+![image](https://i.imgur.com/SRg2uFu.png)
 
 [🆕️ Carlos'u Sunucuna Eklemek İçin Tıkla](https://discord.com/oauth2/authorize?client_id=1075532862536827033&permissions=8&scope=bot)
 | [Oy Ver](https://top.gg/bot/1075532862536827033/vote)
